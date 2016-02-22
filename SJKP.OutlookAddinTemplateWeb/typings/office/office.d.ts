@@ -1694,3 +1694,6 @@ declare module Microsoft.Office.WebExtension {
         timeZone: string;
     }
 }
+
+
+import Office = Microsoft.Office.WebExtension;
